@@ -2,4 +2,4 @@
 git pull origin master
 git add -A
 git commit -a -m "colab add"
-git push
+git push origin develop
